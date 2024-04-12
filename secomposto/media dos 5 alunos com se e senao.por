@@ -113,7 +113,9 @@ programa {
     leia(n5555) 
 
     media1 = (n1+n11+n111+n1111)/4
-    media2 = (n2+n22+n222+n2222)/4
+    media2 = (n2+n22+n222+n2222)/4 
+
+
     media3 = (n3+n33+n333+n3333)/4
      media4 = (n4+n44+n444+n4444)/4
      media5 = (n5+n55+n555+n5555)/4
@@ -126,8 +128,24 @@ programa {
 
       escreva("O nome do quarto aluno é:", nome4, "\nA série do quarto aluno: ", s4, "\nO curso do quarto aluno: ", b4, "\nA nota final é: ",media4)
      
-      escreva("O nome do quinto aluno é:", nome5, "\nA série do quinto aluno: ", s5, "\nO curso do quinto aluno: ", b5, "\nA nota final é: ",media5)
+      escreva("O nome do quinto aluno é:", nome5, "\nA série do quinto aluno: ", s5, "\nO curso do quinto aluno: ", b5, "\nA nota final é: ",media5) 
+      escreva("\n") 
 
+      se(media1>=7){escreva("O  primeiro aluno foi aprovado parabens")}
+    
+      senao{escreva(" \nO primeiro aluno foi reprovado tente novamente")}
+ 
+      se(media2>=7){escreva("\n O  segundo aluno foi aprovado, parabens")}
+      senao{escreva("\nO  segundo aluno foi reprovado, \n tente novamente")}
+
+      se(media3>=7){escreva("\nO terceiro aluno foi aprovada, parábens")} 
+      senao{escreva ("\nO terceiro aluno foi reprovado, \n tente novamente")} 
+
+      se(media4>=7){escreva("\nO  quarto aluno foi aprovado, parábens")}
+      senao{escreva("\nO quarto aluno terceiro foi reprovado, \n tente novamente")} 
+
+      se(media5>=7){escreva("\nO quinto aluno foi aprovado, parábens")}
+      senao{escreva("\nO quinto aluno foi reprovado, \n tente novamente")}
 
 
 
