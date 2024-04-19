@@ -15,3 +15,11 @@ Acesse o site oficial do Visual Studio Code em https://code.visualstudio.com/.
   4. Após clicar no botão de download, o processo de download será iniciado. Aguarde até que o download seja concluído
   5.Assim que o download for concluído, você poderá encontrar o arquivo de instalação do Visual Studio Code em sua pasta de downloads (ou no local que você escolheu para salvar o arquivo
 
+Commit 4: Passo a Passo para a Instalação do VSCODE
+  1. Após o download do arquivo de instalação do Visual Studio Code, navegue até o local onde o arquivo foi baixado em seu computador, ele é salvo na pasta de downloads.
+  2.Dê um duplo clique no arquivo de instalação do Visual Studio Code. Isso iniciará o assistente de instalação.
+ Dependendo das configurações do seu sistema operacional, você pode ser solicitado a confirmar permissões de administrador para prosseguir com a instalação. Siga as instruções na tela para permitir que o assistente de instalação faça as alterações necessárias no seu sistema.
+  3. Se o Visual Studio Code oferecer suporte ao seu idioma preferido, você poderá selecioná-lo no assistente de instalação. Caso contrário, o idioma padrão será usado.
+  4. Na tela de configuração, você pode escolher o diretório onde deseja instalar o Visual Studio Code. Por padrão, ele será instalado no diretório "Program Files" (Windows) ou "Applications" (macOS).
+  5.Após confirmar as configurações, clique em "Instalar" para iniciar o processo de instalação. Aguarde enquanto o assistente de instalação copia os arquivos necessários para o seu computador.
+
