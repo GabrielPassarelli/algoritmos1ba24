@@ -22,3 +22,21 @@ Commit 4: Passo a Passo da Instalação do Python
    4.Se você optar por "Customize installation", poderá selecionar opções adicionais, como adicionar o Python ao PATH do sistema ou instalar para todos os usuários. Se você não tiver certeza, pode deixar as configurações padrão selecionadas.
    5.Durante a instalação, o assistente de instalação exibirá uma barra de progresso para mostrar o andamento. Aguarde até que o processo seja concluído.
    6.Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso. Certifique-se de deixar a opção selecionada para "Disable path length limit" (Desativar limite de comprimento do caminho) marcada para evitar problemas com caminhos de arquivo longos    
+
+
+Comit 5: Criar um virtualenv
+   1. Para configurar o Virtualenv no Python, primeiro você precisa instalá-lo usando o pip, o gerenciador de pecotes do Python. Você pode fazer isso usando o seguinte comando:
+    pip install virtualenv
+
+   2.Depois de instalar o Virtualenv, você pode criar un ambiente virtual usando o seguinte comando:
+   virtualenv nome do seu ambiente.O mais comum é criar a virtualenv na raiz do projeto que ela irá pertencer. Isso permite una organização maior das virtualenvs que possuímos em nosso computador.Com isso, criamos a virtualenv do projeto chamada "venv". É ela quen vai comportar todos os pacotes necessários para a execução do projeto.
+
+   3.Em seguida, ative o ambiente virtual executando o comando apropriado para o seu sistema operacional:
+No Windows:
+I
+nome_do_seu_ambiente\Scripts\activate
+No mac05 e Linux:
+source nome_do_seu_ambiente/bin/activate
+>Quando você ativa o ambiente virtual, seu prompt de comando mudará para indicar que você está trabalhando dentro do ambiente virtual. Isso isola suas dependências do Python
+
+  4.Para desativar una virtualenv utilizamos o comando: deactivate
