@@ -3,4 +3,14 @@ Commit 1: Iniciando Tutorial do Python
   Neste tutorial, vamos abordar o processo de instalação do Python em uma máquina virtual, contendo informações de o que é o python, como faz o download e como faz a instalação.
 
 Commit 2: Explicando o que é Python
-   Python é uma linguagem de programação de alto nível, interpretada como um propósito em geral, é conhecida por sua  sintaxe simples, o que torna uma exceletente ecolha para iniciantes em programação, ele é uma linguagem versátil, usada em uma variedade de campos, incluindo desenvolvivento web, análise de dados. Sendo uma biblioteca padrão, que oferece suporte para funcionalidades prontas para uso.
+   Python é uma linguagem de programação de alto nível, interpretada como um propósito em geral, é conhecida por sua  sintaxe simples, o que torna uma exceletente ecolha para iniciantes em programação, ele é uma linguagem versátil, usada em uma variedade de campos, incluindo desenvolvivento web, análise de dados. Sendo uma biblioteca padrão, que oferece suporte para funcionalidades prontas para uso. 
+
+Commit 3: Passo a Passo para fazer o download
+    Para fazer o download do Python na máquina virtual, siga estas etapas:
+    1.Abra o navegador da web na máquina virtual.
+    2.Acesse o site oficial do Python em https://www.python.org/downloads/.  
+    3. Na página inicial, você irá diferentes versões do Python disponíveis para fazer o download. Escolha a versão mais recente recomendada para sua plataforma (Windows, macOS ou Linunux)
+    4.Clique no link de download correspondente à versão selecionada. Isso geralmente será destacado em um botão grande com o texto "Download Python X.X.X". Certifique-se de escolher a versão correta para o sistema operacional da sua máquina virtual.
+    5.Após clicar no botão de download, você será redirecionado para uma página de download secundária. Role para baixo até encontrar a seção de arquivos executáveis (para Windows) ou arquivos de instalação (para macOS e Linux).
+    6.Clique no link para baixar o arquivo de instalação do Python. Isso iniciará o processo de download do arquivo para o diretório de downloads da sua máquina virtual.
+    7. Agurde, pode demorar dependendo da sua velocidade.
