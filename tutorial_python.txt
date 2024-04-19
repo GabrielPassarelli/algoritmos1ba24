@@ -1,3 +1,6 @@
 Nome Gabriel Henrique 
 Commit 1: Iniciando Tutorial do Python
   Neste tutorial, vamos abordar o processo de instalação do Python em uma máquina virtual, contendo informações de o que é o python, como faz o download e como faz a instalação.
+
+Commit 2: Explicando o que é Python
+   Python é uma linguagem de programação de alto nível, interpretada como um propósito em geral, é conhecida por sua  sintaxe simples, o que torna uma exceletente ecolha para iniciantes em programação, ele é uma linguagem versátil, usada em uma variedade de campos, incluindo desenvolvivento web, análise de dados. Sendo uma biblioteca padrão, que oferece suporte para funcionalidades prontas para uso.
