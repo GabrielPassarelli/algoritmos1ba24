@@ -2,3 +2,8 @@ Nome: Gabriel Henrique Passarelli Mendon
 
 Commit 1: Introdução a instalação do VSCODE
 Bom dia, esse é um tutorial de como isntalar o VSCODE, explicando o que ele é, a etapa do download e da instalação
+
+Commit 2 : O que é o VSCODE
+
+O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft. Ele é gratuito, de código aberto e multiplataforma, o que significa que está disponível para Windows, macOS e Linux. O VSCode oferece suporte a uma variedade de linguagens de programação, incluindo JavaScript e muitas outras. Ele é altamente personalizável por meio de extensões, que adicionam funcionalidades extras, como suporte a frameworks, ferramentas de depuração, integração com sistemas de controle de versão e muito mais. O VSCode é amplamente utilizado por desenvolvedores de software em todo o mundo devido à sua eficiência, facilidade de uso e rica ecossistema de extensões.
+
