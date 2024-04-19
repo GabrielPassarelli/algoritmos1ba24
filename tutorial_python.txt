@@ -1,0 +1,3 @@
+Nome Gabriel Henrique 
+Commit 1: Iniciando Tutorial do Python
+  Neste tutorial, vamos abordar o processo de instalação do Python em uma máquina virtual, contendo informações de o que é o python, como faz o download e como faz a instalação.
