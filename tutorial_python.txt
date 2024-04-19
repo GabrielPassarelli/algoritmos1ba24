@@ -13,4 +13,12 @@ Commit 3: Passo a Passo para fazer o download
     4.Clique no link de download correspondente à versão selecionada. Isso geralmente será destacado em um botão grande com o texto "Download Python X.X.X". Certifique-se de escolher a versão correta para o sistema operacional da sua máquina virtual.
     5.Após clicar no botão de download, você será redirecionado para uma página de download secundária. Role para baixo até encontrar a seção de arquivos executáveis (para Windows) ou arquivos de instalação (para macOS e Linux).
     6.Clique no link para baixar o arquivo de instalação do Python. Isso iniciará o processo de download do arquivo para o diretório de downloads da sua máquina virtual.
-    7. Agurde, pode demorar dependendo da sua velocidade.
+    7. Agurde, pode demorar dependendo da sua velocidade. 
+
+Commit 4: Passo a Passo da Instalação do Python
+   1. Localize o arquivo de instalação do Python que você baixou na etapa anterior. Geralmente, ele estará na pasta de downloads ou em um local especificado por você durante o download.
+   2.Dê um duplo clique no arquivo de instalação para iniciá-lo. Dependendo do sistema operacional da sua máquina virtual, você pode precisar confirmar a execução como administrador.
+   3.Na janela de instalação, você verá uma opção para "Install Now" ou "Customize installation" (Instalar Agora ou Personalizar Instalação). Selecione "Install Now" para uma instalação padrão, que incluirá todas as configurações padrão recomendadas.
+   4.Se você optar por "Customize installation", poderá selecionar opções adicionais, como adicionar o Python ao PATH do sistema ou instalar para todos os usuários. Se você não tiver certeza, pode deixar as configurações padrão selecionadas.
+   5.Durante a instalação, o assistente de instalação exibirá uma barra de progresso para mostrar o andamento. Aguarde até que o processo seja concluído.
+   6.Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso. Certifique-se de deixar a opção selecionada para "Disable path length limit" (Desativar limite de comprimento do caminho) marcada para evitar problemas com caminhos de arquivo longos    
