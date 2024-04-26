@@ -1,0 +1,21 @@
+Git local
+
+Para criar um novo ramo chamado tutorial_configuracao no seu repositório Git local, você pode usar o seguinte comando no terminal:
+Utilize o comando git remote add no terminal, no diretório onde o repositório está armazenado, para adicionar um novo controle remoto.
+
+Dois argumentos são usados ​​pelo comando git remote add:
+
+
+Por exemplo, um nome de repositório remoto origin
+Um exemplo de URL remoto é https://github.com/OWNER/REPOSITORY.git.
+Por exemplo:
+
+ git remote add origin OWNER/REPOSITORY.git https://github.com/ Substitua o controle remoto.
+
+git remote -v Verifique a nova origem remota. (buscar) origem: https://github.com/OWNER/REPOSITORY.git OWNER/REPOSITORY.git em github.com (push)
+Consulte "Sobre repositórios remotos" para mais informações sobre a URL a usar.
+
+Solução do problema: Já existe uma origem remota.
+Este erro indica que você tentou adicionar um controle remoto com um nome que já está no repositório local.
+
+ git remote add origin já existe uma origem distante.
