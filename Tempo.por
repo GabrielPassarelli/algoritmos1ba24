@@ -2,7 +2,11 @@ programa {
   funcao inicio() {
 
   real distancia, velocidade, tempo
-  caracter cidade_natal, destino
+  caracter cidade_natal, destino, nome
+
+escreva("Digite o nome do motorista: ")
+  leia(nome)
+
 
   
   escreva("Digite a cidade natal: ")
