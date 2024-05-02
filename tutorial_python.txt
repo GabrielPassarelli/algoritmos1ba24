@@ -24,7 +24,7 @@ Commit 4: Passo a Passo da Instalação do Python
    6.Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso. Certifique-se de deixar a opção selecionada para "Disable path length limit" (Desativar limite de comprimento do caminho) marcada para evitar problemas com caminhos de arquivo longos    
 
 
-Comit 5: Criar um virtualenv
+Comit 5: Como Criar um virtualenv
    1. Para configurar o Virtualenv no Python, primeiro você precisa instalá-lo usando o pip, o gerenciador de pecotes do Python. Você pode fazer isso usando o seguinte comando:
     pip install virtualenv
 
